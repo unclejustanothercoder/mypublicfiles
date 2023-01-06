@@ -1,0 +1,25 @@
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Consolas;}{\f1\fnil\fcharset134 Noto Sans CJK SC Light;}{\f2\fnil\fcharset186 Consolas;}{\f3\fnil\fcharset134 Noto Serif JP;}}
+{\colortbl ;\red0\green0\blue0;\red247\green150\blue70;}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind5\uc1{\*\background{\shp{\*\shpinst
+{\sp{\sn fillType}{\sv 0}}
+{\sp{\sn fillColor}{\sv 65535}}
+{\sp{\sn fillBackColor}{\sv 0}}
+{\sp{\sn fillFocus}{\sv 0}}
+{\sp{\sn fillBlip}{\sv {\pict\wmetafile0\picscalex1\picscaley1 
+}}}}}}
+\pard\cf1\lang9\f0\fs40 BEGIN\par
+\par
+\cf2\ul TESTDATA\cf1\ulnone\par
+\par
+Simplified Chinese; Noto Sans CJK SC Light, font size: 36\par
+\f1\fs72\'bc\'f2\'cc\'e5\'d6\'d0\'ce\'c4\par
+\f0\fs40 Ji\u462?nt\u464? zh\f2\'f4ngw\'e9n\par
+\lang1033\f0 _______________________________________________\par
+\par
+Japanese; Noto Serif Japan, font size:36\par
+\f3\fs72\'c8\'d5\'b1\'be\par
+\f0\fs40 Nihon\par
+_______________________________________________\par
+END\par
+}
+ 
